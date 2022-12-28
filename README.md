@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PRABHU6777
+- 👋 Hi, I’m @PRABHU PRASAD SAHU
 - 👀 I’m interested in frontend developer
 - 🌱 I have knowledge in html,css,javascript,nodejs,reactjs
 - 📫 mailid- pp411100@gmail.com
